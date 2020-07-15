@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Интерф_Калькулятора", "Интерф_Калькулятора\Интерф_Калькулятора.csproj", "{18646E82-C3FB-40BC-8D46-883C90642F8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator.Tests", "Calculator.Tests\Calculator.Tests.csproj", "{D62042D5-4550-42A8-B276-7C2DF089E219}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Интерф_КалькулятораTests", "Интерф_КалькулятораTests2\Интерф_КалькулятораTests.csproj", "{6883147E-343E-4E78-BBCA-F0C23D2DB0B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Интерф_КалькулятораWeb", "Интерф_КалькулятораWeb\Интерф_КалькулятораWeb.csproj", "{F6588DF9-0A89-4A22-8860-23AF04F68BD0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +19,14 @@ Global
 		{18646E82-C3FB-40BC-8D46-883C90642F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18646E82-C3FB-40BC-8D46-883C90642F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18646E82-C3FB-40BC-8D46-883C90642F8E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D62042D5-4550-42A8-B276-7C2DF089E219}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D62042D5-4550-42A8-B276-7C2DF089E219}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D62042D5-4550-42A8-B276-7C2DF089E219}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D62042D5-4550-42A8-B276-7C2DF089E219}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6883147E-343E-4E78-BBCA-F0C23D2DB0B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6883147E-343E-4E78-BBCA-F0C23D2DB0B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6883147E-343E-4E78-BBCA-F0C23D2DB0B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6883147E-343E-4E78-BBCA-F0C23D2DB0B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6588DF9-0A89-4A22-8860-23AF04F68BD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6588DF9-0A89-4A22-8860-23AF04F68BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6588DF9-0A89-4A22-8860-23AF04F68BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6588DF9-0A89-4A22-8860-23AF04F68BD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
